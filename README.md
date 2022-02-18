@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ALC Tecnologia](https://github.com/alchymiaweb)
 
-- 🌱 I’m currently learning **Ruby/Rails, Postgres, JS, Clean Architeture & Cloud Development**
+- 🌱 I’m currently learning **Ruby/Rails, PostgreSQL, JS, Clean Architeture & Cloud Development**
 
 - 📫 How to reach me **xspynks@gmail.com**
 
