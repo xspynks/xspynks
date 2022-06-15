@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rafaeldepauladj" target="blank"><img src="https://img.shields.io/twitter/follow/rafaeldepauladj?logo=twitter&style=for-the-badge" alt="rafaeldepauladj" /></a> </p>
 
-- 🔭 I’m currently working on [ALC Tecnologia](https://github.com/alchymiaweb) with:
--   **Ruby on Rails, React, Vue, PostgreSQL and Docker.**
+- 🔭 I’m currently working on [ALC Tecnologia](https://github.com/alchymiaweb) with: **Ruby on Rails, React, Vue, PostgreSQL, Docker and Agile Methodologies.**
 
 - 📫 How to reach me: **rafaeldepauladev@gmail.com**
 
