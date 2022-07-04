@@ -11,7 +11,7 @@
 
 ## My Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xspynks&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/xspynks)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xspynks&show_icons=true&theme=dracula&count_private=true)](https://github.com/xspynks)
 
 ## Connect With Me
 <p align="left">
