@@ -9,6 +9,10 @@
 
 - 📫 How to reach me: **rafaeldepauladev@gmail.com**
 
+## My Github Stats
+
+[![GithubStats](https://github-readme-stats.vercel.app/api?username=xspynks99&show_icons=true&theme=tokyonight)](https://github.com/xspynks)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rafaeldepauladj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafaeldepauladj" height="30" width="40" /></a>
