@@ -25,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xspynks&show_icons=true&locale=en&layout=compact" alt="xspynks" /></p>
 <br><br>
-<br><br><br><br>
+<br><br><br><br><br>
 
 ## My Commit Snake Game
 ![Snake animation](https://github.com/xspynks/xspynks/blob/master/github-user-contribution.svg)
