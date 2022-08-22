@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **rafaeldepauladev@gmail.com**
 
-## My Github Stats
+## My Code Stats
 
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=xspynks&branding=false&badges=3&show-avatar=true&style=--border-radius:10px"
