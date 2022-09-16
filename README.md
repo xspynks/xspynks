@@ -11,10 +11,6 @@
 
 ## My Code Stats
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=xspynks&branding=false&badges=4&show-avatar=true&style=--border-radius:10px"
-/>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xspynks&show_icons=true&theme=dracula&count_private=true)](https://github.com/xspynks)
 
 ## Connect With Me
