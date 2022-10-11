@@ -1,11 +1,3 @@
-<h1 align="center">Hi, I'm Rafael de Paula</h1>
-<h3 align="center">A Full Stack Developer from Brazil.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xspynks&label=Profile%20views&color=0e75b6&style=flat" alt="xspynks" /> </p>
-
-<p align="left"> <a href="https://twitter.com/rafaeldepauladj" target="blank"><img src="https://img.shields.io/twitter/follow/rafaeldepauladj?logo=twitter&style=for-the-badge" alt="rafaeldepauladj" /></a> </p>
-
-- 🔭 I’m currently working on [ALC Tecnologia](https://github.com/alchymiaweb) with: **Ruby on Rails, ReactJS, Vue.js, PostgreSQL, Docker and Agile Methodologies.**
 
 - 📫 How to reach me: **rafaeldepauladev@gmail.com**
 
