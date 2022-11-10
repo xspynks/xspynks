@@ -2,7 +2,7 @@
 - 📫 How to reach me: **rafaeldepauladev@gmail.com**
 
 # 💫 About Me:
-I'm a full stack developer currently at Jalasoft as a Trainee through Jala University. You can see more information about what I'm doing there in the experience section below.
+I'm a Full Stack Developer currently at Jalasoft as a Trainee through Jala University. You can see more information about what I'm doing there in the experience section on my LinkedIn profile.
 
 
 ## 🌐 Socials:
