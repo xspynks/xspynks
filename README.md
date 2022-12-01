@@ -4,6 +4,8 @@
 # 💫 About Me:
 I'm a Full Stack Developer currently at Jalasoft as a Trainee through Jala University. You can see more information about what I'm doing there in the experience section on my LinkedIn profile.
 
+<a href="https://app.daily.dev/xspynks"><img src="https://api.daily.dev/devcards/b5c69c000c7b49a082a202fdff795879.png?r=ncv" width="400" alt="Rafael de Paula's Dev Card"/></a>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafaeldepaula_ba) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaeldepaulabarbosa) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rafaeldepauladj) 
