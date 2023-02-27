@@ -2,7 +2,7 @@
 - 📫 How to reach me: **rafaeldepauladev@gmail.com**
 
 # 💫 About Me:
-I'm a Full Stack Developer currently at Jalasoft as a Trainee through Jala University. You can see more information about what I'm doing there in the experience section on my LinkedIn profile.
+I'm a Full Stack Developer. You can see more information about what I'm doing there in the experience section on my LinkedIn profile.
 
 <a href="https://app.daily.dev/xspynks"><img src="https://api.daily.dev/devcards/b5c69c000c7b49a082a202fdff795879.png?r=ncv" width="400" alt="Rafael de Paula's Dev Card"/></a>
 
