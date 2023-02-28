@@ -2,7 +2,7 @@
 - 📫 How to reach me: **rafaeldepauladev@gmail.com**
 
 # 💫 About Me:
-I'm a Full Stack Developer. You can see more information about me on my [LinkedIn](https://linkedin.com/in/rafaeldepaulabarbosa)
+I'm a Full Stack Developer. You can see more information about me on my [LinkedIn profile.](https://linkedin.com/in/rafaeldepaulabarbosa)
 
 <a href="https://app.daily.dev/xspynks"><img src="https://api.daily.dev/devcards/b5c69c000c7b49a082a202fdff795879.png?r=ncv" width="400" alt="Rafael de Paula's Dev Card"/></a>
 
