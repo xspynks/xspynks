@@ -6,7 +6,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rafaeldepauladj) 
 
 ### 💫 About Me:
-I'm a family man, DJ, music producer, and full-stack developer living in Goiânia, Brazil.
+I'm a family man, DJ, music producer, and full-stack developer living in Goiânia, Brazil.  
 You'll be able to learn more on my [LinkedIn profile.](https://linkedin.com/in/rafaeldepaulabarbosa)
 
 <!--- <a href="https://app.daily.dev/xspynks"><img src="https://api.daily.dev/devcards/b5c69c000c7b49a082a202fdff795879.png?r=ncv" width="400" alt="Rafael de Paula's Dev Card"/></a> -->
