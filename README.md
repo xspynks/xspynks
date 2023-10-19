@@ -24,7 +24,7 @@ You'll be able to learn more on my [LinkedIn profile.](https://linkedin.com/in/r
 
 #### In case all you have is a terminal with npm and need my info, run:
 ```bash
-npx spynks
+npx xspynks
 ```
 
 ---
